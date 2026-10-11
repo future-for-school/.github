@@ -23,7 +23,7 @@
 ## 🛠️ Architecture & Tech Stack
 
 * **Frontend**: Modern Responsive Web Architecture & Dynamic Interactive Canvases
-* **AI & Language Models**: Anthropic Claude 3.5 Sonnet & Haiku API (structured outputs & prompt caching)
+* **AI & Language Models**: Anthropic Claude 5.5 Sonnet & Haiku API (structured outputs & prompt caching)
 * **Cloud Infrastructure**: Cloudflare Global Edge & Pages
 * **Email & Communications**: Cloudflare Secure Routing
 
